@@ -17,10 +17,10 @@
 
 ## About &nbsp;<sub>自己紹介</sub>
 
-- **Currently working on:** [project or course name]
-- **Currently learning:** [technology or topic]
+- **Currently working on:** 
+- **Currently learning:** 
 - **Looking for:** internship, junior role or collaborations
-- **Ask me about:** [your strongest topics]
+- **Ask me about:** 
 
 ## Tech stack &nbsp;<sub>技能</sub>
 
@@ -37,9 +37,9 @@
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [Project One](https://github.com/AustinGounden/project-one) | One sentence on what it does and why it matters. | JavaScript, API |
-| [Project Two](https://github.com/AustinGounden/project-two) | One sentence on what it does and why it matters. | Python, Data |
-| [Project Three](https://github.com/AustinGounden/project-three) | One sentence on what it does and why it matters. | SQL |
+| [Project One](https://github.com/AustinGounden/project-one) | ... | JavaScript, API |
+| [Project Two](https://github.com/AustinGounden/project-two) | ... | Python, Data |
+| [Project Three](https://github.com/AustinGounden/project-three) | ... | SQL |
 
 ## GitHub stats &nbsp;<sub>活動</sub>
 
