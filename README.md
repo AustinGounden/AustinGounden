@@ -4,7 +4,7 @@
 
 <p align="center">
   I build clean, reliable things for the web.<br>
-  Currently learning <b>[your current focus]</b> and looking for my first role in software.
+  Currently learning <b>Software Development</b> and looking for my first role in software.
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
 
 ## About &nbsp;<sub>自己紹介</sub>
 
-- **Currently working on:** [project or course name]
-- **Currently learning:** [technology or topic]
+- **Currently working on:** An app for smart TVs to find any show
+- **Currently learning:** Java
 - **Looking for:** internship, junior role or collaborations
-- **Ask me about:** [your strongest topics]
+- **Ask me about:** My latest Project
 
 ## Tech stack &nbsp;<sub>技能</sub>
 
