@@ -1,7 +1,7 @@
 <h1 align="center">AUSTIN GOUNDEN</h1>
 <p align="center"><b>あなたの名前</b> · Software Developer</p>
 <p align="center">
-  I build clean, reliable things for the web. Currently learning X and looking for Y.
+  I build clean, reliable things for the web. Currently learning ...
 </p>
 <p align="center">
   <a href="https://AUSTINGOUNDEN.github.io"><img src="https://img.shields.io/badge/Portfolio-d6203f?style=for-the-badge\&logo=firefox\&logoColor=white" alt="Portfolio"></a>
