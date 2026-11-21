@@ -17,10 +17,10 @@
 
 ## About &nbsp;<sub>自己紹介</sub>
 
-- **Currently working on:** 
-- **Currently learning:** 
+- **Currently working on:** [project or course name]
+- **Currently learning:** [technology or topic]
 - **Looking for:** internship, junior role or collaborations
-- **Ask me about:** 
+- **Ask me about:** [your strongest topics]
 
 ## Tech stack &nbsp;<sub>技能</sub>
 
@@ -37,9 +37,8 @@
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [Project One](https://github.com/AustinGounden/project-one) | ... | JavaScript, API |
-| [Project Two](https://github.com/AustinGounden/project-two) | ... | Python, Data |
-| [Project Three](https://github.com/AustinGounden/project-three) | ... | SQL |
+| [Crimson Ronin](https://github.com/AustinGounden/crimson-ronin) · [Play](https://austingounden.github.io/crimson-ronin) | Pixel-art samurai horde survivor with roguelike upgrades, playable in the browser on desktop and mobile. | JavaScript, HTML Canvas |
+| [Portfolio](https://github.com/AustinGounden/austingounden.github.io) · [Visit](https://austingounden.github.io) | Pixel-art, Japanese-themed CV site with animations, where all content is edited from one data object. | HTML, CSS, JavaScript |
 
 ## GitHub stats &nbsp;<sub>活動</sub>
 
