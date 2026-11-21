@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://AUSTINGOUNDEN.github.io"><img src="https://img.shields.io/badge/Portfolio-d6203f?style=for-the-badge\&logo=firefox\&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-7b3fe4?style=for-the-badge\&logo=linkedin\&logoColor=white" alt="LinkedIn"></a>
+  <a href="[https://linkedin.com/in/USERNAME](https://www.linkedin.com/in/austin-gounden-044349331/)"><img src="https://img.shields.io/badge/LinkedIn-7b3fe4?style=for-the-badge\&logo=linkedin\&logoColor=white" alt="LinkedIn"></a>
   <a href="austingounden05@gmail.com"><img src="https://img.shields.io/badge/Email-d6203f?style=for-the-badge\&logo=gmail\&logoColor=white" alt="Email"></a>
 </p>
 ---
